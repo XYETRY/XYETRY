@@ -4,5 +4,5 @@
   > Sound Engineer / Designer
 
   > Prefered Languages:
-    -English
-    -Polish
+  > English
+  > Polish
