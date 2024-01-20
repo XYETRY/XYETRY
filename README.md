@@ -1,8 +1,12 @@
-  XYETRY
-  
-  > Music Producer
-  > Sound Engineer / Designer
+  <h1>XYETRY</h1>
+  <h3>
+  > Info:
+  </h3>
+  - Music Producer <br>
+  - Sound Engineer / Designer <br>
 
-  > Prefered Languages:
-  > English
-  > Polish
+  <h3>
+  > Prefered Languages: <br>
+  </h3>
+  - English <br>
+  - Polish
